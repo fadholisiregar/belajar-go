@@ -4,4 +4,5 @@ import "fmt"
 
 func main() {
 	fmt.Println("Halo Dunia")
+	fmt.Println("Halo Bumi")
 }
